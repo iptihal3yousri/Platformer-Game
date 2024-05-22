@@ -7,8 +7,10 @@
     <p>Pygame  is a popular Python library used for developing 2D video games. It provides functionality for creating games and multimedia applications by offering various modules for handling graphics, sound, input devices like keyboards and controllers, and more. Pygame is built on top of the Simple DirectMedia Layer (SDL) library, which makes it cross-platform and capable of running on different operating systems such as Windows, macOS, and Linux.</p>
   <li><strong>Game Overview</strong></li>
     <ul>
-      <p>Start screen: appears when run the game</p>
-      <img src="Images/Main Menu.png" alt="Main Menu" width="400">
+      <li>
+        <p>Start screen: appears when run the game</p>
+        <img src="Images/Main Menu.png" alt="Main Menu" width="400">
+      </li>
     </ul>
     <ul>
       <p>gameplay</p>
@@ -28,7 +30,7 @@
     </ul>
   <p></p>
     <ul>
-      <p>When pass all levels</p>
+      <p>The Main Character</p>
       <img src="img/guy1.png" alt="the main character" width="100">
       <img src="" alt="" width="100">
       <img src="img/guy2.png" alt="the main character" width="100">
@@ -45,9 +47,7 @@
   <li><strong>Visualizations of Data:</strong> Generate visualizations to gain insights into the dataset.</li>
   <li><strong>Machine Learning Model:</strong>
     <ul>
-      <li><strong>Naive Bayes:</strong>
-        
-      </li>
+      <li><strong>Naive Bayes:</strong></li>
       <li><strong>Random Forest:</strong>
         <ul>
           <li>Train a Random Forest model and evaluate its performance.</li>
