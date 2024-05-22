@@ -39,19 +39,26 @@
       </li>
     </ul>    
     <ul>
-      <p>When pass all levels</p>
-      <img src="Images/pass all levels.png" alt="game when player win" width="400">
+      <li>
+        <p>When pass all levels</p>
+        <ul>
+          <img src="Images/pass all levels.png" alt="game when player win" width="400">
+        </ul>
+      </li>
     </ul>
-  <p></p>
     <ul>
-      <p>The Main Character</p>
-      <img src="img/guy1.png" alt="the main character" width="100">
-      <img src="" alt="" width="100">
-      <img src="img/guy2.png" alt="the main character" width="100">
-      <img src="" alt="" width="100">
-      <img src="img/guy4.png" alt="the main character" width="100">
-      <img src="" alt="" width="100">
-      <img src="img/guy3.png" alt="the main character" width="100">
+      <li>
+        <p>The Main Character</p>
+        <ul>
+          <img src="img/guy1.png" alt="the main character" width="100">
+          <img src="" alt="" width="100">
+          <img src="img/guy2.png" alt="the main character" width="100">
+          <img src="" alt="" width="100">
+          <img src="img/guy4.png" alt="the main character" width="100">
+          <img src="" alt="" width="100">
+          <img src="img/guy3.png" alt="the main character" width="100">
+        </ul>
+      </li>
     </ul>
   
   <li><strong>Preprocessing:</strong> Preprocess the text data by tokenization, lemmatization, and removing stop words.</li>
