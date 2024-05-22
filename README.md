@@ -102,4 +102,4 @@
     </li>
   </ul>
   
-<p><stong>Thanks</stong></p>
+<h1><stong>                    Thanks                    </stong></h1>
