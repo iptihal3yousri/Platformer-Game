@@ -24,13 +24,15 @@
       </ul>
       <ul>
         <p>When pass all levels</p>
-        <img src="Images/ass all levels.png" alt="game when player win" width="400">
+        <img src="Images/pass all levels.png" alt="game when player win" width="400">
       </ul>
       <ul>
         <p>When pass all levels</p>
         <img src="img/guy1.png" alt="the main character" width="100">
+        <img src="" alt="the main character" width="100">
         <img src="img/guy2.png" alt="the main character" width="100">
-        <img src="img/guy3.png" alt="the main character" width="100">
+        <img src="" alt="the main character" width="100">
+        <img src="img/guy4.png" alt="the main character" width="100">
       </ul>
   
   <li><strong>Preprocessing:</strong> Preprocess the text data by tokenization, lemmatization, and removing stop words.</li>
