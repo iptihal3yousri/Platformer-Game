@@ -48,7 +48,7 @@
     </ul>
     <ul>
       <li>
-        <p>The Main Character</p>
+        <p>The Main Character: Change and blit it on screen according to object state.</p>
         <ul>
           <img src="img/guy1.png" alt="the main character" width="100">
           <img src="" alt="" width="100">
@@ -61,7 +61,13 @@
       </li>
     </ul>
   
-  <li><strong>Preprocessing:</strong> Preprocess the text data by tokenization, lemmatization, and removing stop words.</li>
+  <li><strong>Game Rules</strong></li>
+  <ul>
+    <li>
+      <p>Objective:</p>
+      <ul>The main objective is to navigate the player character through each level, avoiding obstacles and enemies, and reaching the exit.</ul>
+    </li>
+  </ul>
   <li><strong>Encoding Target Column:</strong> Map the emotion labels to numerical values.</li>
   <li><strong>Split Data into Train and Test:</strong> Split the dataset into training and testing sets.</li>
   <li><strong>Convert Text Column to Numeric Vector:</strong> Use TF-IDF vectorization to convert the text data into numeric vectors.</li>
