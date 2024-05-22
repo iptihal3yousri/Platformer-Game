@@ -10,15 +10,10 @@
       <p>Start screen: appears when run the game</p>
       <img src="Images/Main Menu.png" alt="Main Menu" width="400">
     </ul>
-
-    
     <ul>
       <p>gameplay</p>
       <img src="Images/start screen.png" alt="game during playing (UI)" width="400">
     </ul>
-   
-
-    
     <ul>
       <p>Score while playing and collecting coins</p>
       <img src="Images/score across levels.png" alt="game during playing (UI)" width="400">
