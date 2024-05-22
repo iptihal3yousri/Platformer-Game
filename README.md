@@ -18,23 +18,15 @@
       <p>Score while playing and collecting coins</p>
       <img src="Images/score across levels.png" alt="game during playing (UI)" width="400">
     </ul>
-   
-
-    
     <ul>
       <p>When lose</p>
       <img src="Images/game over.png" alt="game dwhen player lose" width="400">
-    </ul>
-   
-
-    
+    </ul>    
     <ul>
       <p>When pass all levels</p>
       <img src="Images/pass all levels.png" alt="game when player win" width="400">
     </ul>
-    
-
-    
+  <p></p>
     <ul>
       <p>When pass all levels</p>
       <img src="img/guy1.png" alt="the main character" width="100">
