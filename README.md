@@ -9,7 +9,9 @@
     <ul>
       <li>
         <p>Start screen: appears when run the game</p>
-        <img src="Images/Main Menu.png" alt="Main Menu" width="400">
+        <ul>
+          <img src="Images/Main Menu.png" alt="Main Menu" width="400
+        </ul>
       </li>
     </ul>
     <ul>
