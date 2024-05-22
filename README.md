@@ -7,50 +7,48 @@
     <p>Pygame  is a popular Python library used for developing 2D video games. It provides functionality for creating games and multimedia applications by offering various modules for handling graphics, sound, input devices like keyboards and controllers, and more. Pygame is built on top of the Simple DirectMedia Layer (SDL) library, which makes it cross-platform and capable of running on different operating systems such as Windows, macOS, and Linux.</p>
   <li><strong>Game Overview</strong></li>
     <ul>
-        <p>Start screen: appears when run the game</p>
-        <img src="Images/Main Menu.png" alt="Main Menu" width="400">
-      </ul>
-      <ul>
+      <p>Start screen: appears when run the game</p>
+      <img src="Images/Main Menu.png" alt="Main Menu" width="400">
+    </ul>
+    
+    <ul>
+      <p>gameplay</p>
+      <img src="Images/start screen.png" alt="game during playing (UI)" width="400">
+    </ul>
+    <ul>
         
-      </ul>
-      <ul>
-        <p>gameplay</p>
-        <img src="Images/start screen.png" alt="game during playing (UI)" width="400">
-      </ul>
-      <ul>
+    </ul>
+    <ul>
+      <p>Score while playing and collecting coins</p>
+      <img src="Images/score across levels.png" alt="game during playing (UI)" width="400">
+    </ul>
+    <ul>
+      
+    </ul>
+    <ul>
+      <p>When lose</p>
+      <img src="Images/game over.png" alt="game dwhen player lose" width="400">
+    </ul>
+    <ul>
         
-      </ul>
-      <ul>
-        <p>Score while playing and collecting coins</p>
-        <img src="Images/score across levels.png" alt="game during playing (UI)" width="400">
-      </ul>
-      <ul>
+    </ul>
+    <ul>
+      <p>When pass all levels</p>
+      <img src="Images/pass all levels.png" alt="game when player win" width="400">
+    </ul>
+    <ul>
         
-      </ul>
-      <ul>
-        <p>When lose</p>
-        <img src="Images/game over.png" alt="game dwhen player lose" width="400">
-      </ul>
-      <ul>
-        
-      </ul>
-      <ul>
-        <p>When pass all levels</p>
-        <img src="Images/pass all levels.png" alt="game when player win" width="400">
-      </ul>
-      <ul>
-        
-      </ul>
-      <ul>
-        <p>When pass all levels</p>
-        <img src="img/guy1.png" alt="the main character" width="100">
-        <img src="" alt="" width="100">
-        <img src="img/guy2.png" alt="the main character" width="100">
-        <img src="" alt="" width="100">
-        <img src="img/guy4.png" alt="the main character" width="100">
-        <img src="" alt="" width="100">
-        <img src="img/guy3.png" alt="the main character" width="100">
-      </ul>
+    </ul>
+    <ul>
+      <p>When pass all levels</p>
+      <img src="img/guy1.png" alt="the main character" width="100">
+      <img src="" alt="" width="100">
+      <img src="img/guy2.png" alt="the main character" width="100">
+      <img src="" alt="" width="100">
+      <img src="img/guy4.png" alt="the main character" width="100">
+      <img src="" alt="" width="100">
+      <img src="img/guy3.png" alt="the main character" width="100">
+    </ul>
   
   <li><strong>Preprocessing:</strong> Preprocess the text data by tokenization, lemmatization, and removing stop words.</li>
   <li><strong>Encoding Target Column:</strong> Map the emotion labels to numerical values.</li>
