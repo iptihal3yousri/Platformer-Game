@@ -67,42 +67,39 @@
       <p>Objective:</p>
       <ul>The main objective is to navigate the player character through each level, avoiding obstacles and enemies, and reaching the exit.</ul>
     </li>
+    <li>
+    <p>Controls:</p>
+      <ul>The player can control the character using the keyboard arrow keys. They can move left or right, jump, and interact with certain objects.</ul>
+    </li>
+    <li>
+    <p>Level Completion:</p>
+      <ul>To complete each level, the player must reach the exit door while collecting as many coins as possible.</ul>
+    </li>
+    <li>
+    <p>Obstacles and Enemies:</p>
+      <ul>The player must avoid hazards such as spikes, pits of lava, and moving platforms. Additionally, enemies may move back and forth, posing a threat to the player. Colliding with obstacles or enemies typically results in the player losing the game.</ul>
+    </li>
   </ul>
-  <li><strong>Encoding Target Column:</strong> Map the emotion labels to numerical values.</li>
-  <li><strong>Split Data into Train and Test:</strong> Split the dataset into training and testing sets.</li>
-  <li><strong>Convert Text Column to Numeric Vector:</strong> Use TF-IDF vectorization to convert the text data into numeric vectors.</li>
-  <li><strong>Visualizations of Data:</strong> Generate visualizations to gain insights into the dataset.</li>
-  <li><strong>Machine Learning Model:</strong>
-    <ul>
-      <li><strong>Naive Bayes:</strong></li>
-      <li><strong>Random Forest:</strong>
-        <ul>
-          <li>Train a Random Forest model and evaluate its performance.</li>
-          <li><strong>Confusion Matrix:</strong></li>
-          <img src="Models performance/rf.jpg" alt="Random Forest" width="400">
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li><strong>Test Model:</strong> Test the trained models with new text inputs to make predictions.</li>
-</ol>
-
-<h2>Screenshots</h2>
-
-<h3>Anger Emotion</h3>
-<img src="Screenshots/anger.jpg" alt="Anger Emotion">
-
-<h3>Anticipation Emotion</h3>
-<img src="Screenshots/anticipation.jpg" alt="Anticipation Emotion">
-
-<h3>Sad Emotion</h3>
-<img src="Screenshots/sad.jpg" alt="Sad Emotion">
-
-<h3>Joy Emotion</h3>
-<img src="Screenshots/joy.jpg" alt="Joy Emotion">
-
-<h3>Fear Emotion</h3>
-<img src="Screenshots/fear.jpg" alt="Fear Emotion">
-
-<h3>Surprise Emotion</h3>
-<img src="Screenshots/surprise.jpg" alt="Surprise Emotion">
+  
+  <li><strong>Game Features</strong> </li>
+  <ul>
+    <li>
+      <p>Main Menu:</p>
+      <ul>Start Button: Begin the game and embark on your adventure.</ul>
+      <ul>Exit Button: Close the game.</ul>
+    </li>
+    <li>
+    <p>In-Game:</p>
+      <ul>Player Character: Control a character equipped with the ability to jump and move horizontally.</ul>
+      <ul>Score Display: Keep track of your score as you collect coins.</ul>
+      <ul>Game Over: Encounter obstacles or enemies, and your game will end.</ul>
+      <ul>Restart Button: Restart the level after encountering a game over.</ul>
+    </li>
+    <li>
+    <p>Victory:</p>
+      <ul>Level Completion: Successfully reach the exit point to complete a level.</ul>
+      <ul>Progression: Advance through levels until you reach the final stage.</ul>
+    </li>
+  </ul>
+  
+<p><stong>Thanks</stong></p>
