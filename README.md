@@ -10,35 +10,36 @@
       <p>Start screen: appears when run the game</p>
       <img src="Images/Main Menu.png" alt="Main Menu" width="400">
     </ul>
+
     
     <ul>
       <p>gameplay</p>
       <img src="Images/start screen.png" alt="game during playing (UI)" width="400">
     </ul>
-    <ul>
-        
-    </ul>
+   
+
+    
     <ul>
       <p>Score while playing and collecting coins</p>
       <img src="Images/score across levels.png" alt="game during playing (UI)" width="400">
     </ul>
-    <ul>
-      
-    </ul>
+   
+
+    
     <ul>
       <p>When lose</p>
       <img src="Images/game over.png" alt="game dwhen player lose" width="400">
     </ul>
-    <ul>
-        
-    </ul>
+   
+
+    
     <ul>
       <p>When pass all levels</p>
       <img src="Images/pass all levels.png" alt="game when player win" width="400">
     </ul>
-    <ul>
-        
-    </ul>
+    
+
+    
     <ul>
       <p>When pass all levels</p>
       <img src="img/guy1.png" alt="the main character" width="100">
