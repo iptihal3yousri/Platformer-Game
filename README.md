@@ -15,16 +15,28 @@
       </li>
     </ul>
     <ul>
-      <p>gameplay</p>
-      <img src="Images/start screen.png" alt="game during playing (UI)" width="400">
+      <li>
+        <p>gameplay</p>
+          <ul>
+            <img src="Images/start screen.png" alt="game during playing (UI)" width="400">
+          </ul>
+      </li>
     </ul>
     <ul>
-      <p>Score while playing and collecting coins</p>
-      <img src="Images/score across levels.png" alt="game during playing (UI)" width="400">
+      <li>
+        <p>Score while playing and collecting coins</p>
+        <ul>
+          <img src="Images/score across levels.png" alt="game during playing (UI)" width="400">
+        </ul>
+      </li>
     </ul>
     <ul>
-      <p>When lose</p>
-      <img src="Images/game over.png" alt="game dwhen player lose" width="400">
+      <li>
+        <p>When lose</p>
+        <ul>
+          <img src="Images/game over.png" alt="game dwhen player lose" width="400">
+        </ul>
+      </li>
     </ul>    
     <ul>
       <p>When pass all levels</p>
